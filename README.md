@@ -1,6 +1,12 @@
-# ds-project-template
+# Prediction of Sea Ice in Northern Hemisphere
 
-Template for creating ds simple projects
+Sea ice is frozen sea water that floats on the surface of ocean. This floating ice has a profound influence on the polar environment, influencing ocean circulation, weather, and regional climate.
+
+# Goal of the project
+
+1. Prediction of change in the sea ice extent of Northern Hemisphere till 2122 using time series analysis
+2. Analysis of sea ice extent in three main regions of Northern Hemisphere
+3. Visualization of the change of sea ice extent
 
 ## Requirements
 
