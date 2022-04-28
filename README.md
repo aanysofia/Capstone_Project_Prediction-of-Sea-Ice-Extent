@@ -2,7 +2,7 @@
 ![](sea_ice.gif)
 
 
-## Prediction of Sea Ice in Northern Hemisphere
+## Prediction of Sea Ice Extent in Northern Hemisphere
 
 ## Introduction
 
