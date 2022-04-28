@@ -1,10 +1,16 @@
-![](sea_ice.gif)
 
+![](sea_ice.gif)
 
 
 # Prediction of Sea Ice in Northern Hemisphere
 
+### Introduction
+
 Sea ice is frozen sea water that floats on the surface of ocean. This floating ice has a profound influence on the polar environment, influencing ocean circulation, weather, and regional climate.
+
+Sea ice also plays a fundamental role in polar ecosystems. The ice itself is habitat for animals such as seals, Arctic foxes, polar bears, and penguins. When the ice melts in the summer, it releases nutrients into the water, stimulating the growth of phytoplankton, the center of the marine food web. As the ice melts, it exposes ocean water to sunlight, spurring photosynthesis in phytoplankton. When ice freezes, the underlying water gets saltier and sinks, mixing the water column and bringing nutrients to the surface. 
+
+The influence of sea ice on the Earth is global. The white surface reflects far more sunlight back to space than ocean water does. Once sea ice begins to melt, a self-reinforcing cycle often begins. As more ice melts and exposes more dark water, the water absorbs more sunlight. The sun-warmed water then melts more ice. Over several years, this positive feedback cycle can influence global climate. So it is important to predict the sea ice in the polar regions.
 
 # Goal of the project
 
