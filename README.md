@@ -1,3 +1,6 @@
+![](sea_ice.gif)
+
+
 # Prediction of Sea Ice in Northern Hemisphere
 
 Sea ice is frozen sea water that floats on the surface of ocean. This floating ice has a profound influence on the polar environment, influencing ocean circulation, weather, and regional climate.
