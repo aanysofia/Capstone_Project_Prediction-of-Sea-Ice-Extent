@@ -2,9 +2,9 @@
 ![](sea_ice.gif)
 
 
-# Prediction of Sea Ice in Northern Hemisphere
+## Prediction of Sea Ice in Northern Hemisphere
 
-### Introduction
+## Introduction
 
 Sea ice is frozen sea water that floats on the surface of ocean. This floating ice has a profound influence on the polar environment, influencing ocean circulation, weather, and regional climate.
 
@@ -12,11 +12,18 @@ Sea ice also plays a fundamental role in polar ecosystems. The ice itself is hab
 
 The influence of sea ice on the Earth is global. The white surface reflects far more sunlight back to space than ocean water does. Once sea ice begins to melt, a self-reinforcing cycle often begins. As more ice melts and exposes more dark water, the water absorbs more sunlight. The sun-warmed water then melts more ice. Over several years, this positive feedback cycle can influence global climate. So it is important to predict the sea ice in the polar regions.
 
-# Goal of the project
+## Goal of the project
 
 1. Prediction of change in the sea ice extent of Northern Hemisphere till 2122 using time series analysis
 2. Analysis of sea ice extent in three main regions of Northern Hemisphere
 3. Visualization of the change of sea ice extent
+
+## Data
+
+The data is an an overview of the extent of sea ice around the polar regions since 1978. The dataset is generated from brightness temperature data and is designed to provide a consistent time series of sea ice concentrations spanning the coverage of several passive microwave instruments.The data are provided in the polar stereographic projection at a grid cell size of 25 x 25 km.
+
+Citation:
+Cavalieri, D. J., C. L. Parkinson, P. Gloersen, and H. J. Zwally. 1996, updated yearly. Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data, Version 1. [Indicate subset used]. Boulder, Colorado USA. NASA National Snow and Ice Data Center Distributed Active Archive Center. doi: https://doi.org/10.5067/8GQ8LZQVL0VL.
 
 ## Requirements
 
