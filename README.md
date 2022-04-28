@@ -1,4 +1,4 @@
-![](sea_ice.gif)
+[](sea_ice.gif)
 
 
 # Prediction of Sea Ice in Northern Hemisphere
